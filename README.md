@@ -1,29 +1,46 @@
-<h1 align="center">Hi 👋, I'm Charles Akintola Walton</h1>
-<h3 align="center">A passionate fullstack web developer and a Data Analyst from Nigeria</h3>
+## Data Analyst & Data Engineer | AI & Platform Architecture | Nigeria 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cwalton133&label=Profile%20views&color=0e75b6&style=flat" alt="cwalton133" /> </p>
+## Proven Results
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwalton133" alt="cwalton133" /></a> </p>
+- Enhanced industrial supply chain efficiency using advanced data analytics and AI-driven insights
+- Developed scalable data pipelines and ETL processes supporting platforms with 100M+ users globally
+- Secured over $2.5M in pre-product investment through innovative data-driven solutions and technical vision
+- Built and led high-performing data and engineering teams within startups and tech companies
 
-- 🔭 I’m currently working on [Online Course Application](http://github.com/cwalton133/onlinecourse)
+## Technical Achievements
 
-- 🌱 I’m currently learning **FastAPI in Python**
+- **Data Infrastructure:** Designed and deployed large-scale data pipelines, ETL workflows, and cloud-based data warehouses (AWS, GCP)
+- **AI & ML Integration:** Implemented machine learning models and analytics solutions to optimize operational workflows
+- **Platform Development:** Led the development of data platforms supporting real-time analytics and business intelligence
+- **Automation & Optimization:** Created automated data processing pipelines reducing manual effort and increasing accuracy
+- **Technical Publications:** Authored guides on data architecture best practices and cloud deployment strategies
 
-- 👯 I’m looking to collaborate on [E-commerce Application](http://github.com/cwalton133/ecommerceapp)
+## Technical Stack Mastery
 
-- 🤝 I’m looking for help with [Django Restful API](http://github.com/cwalton133/restful-api)
+- **Data & Analytics:** SQL, NoSQL, Data Warehousing (Redshift, BigQuery), Spark, Kafka
+- **AI & ML:** Python (Pandas, NumPy, scikit-learn), TensorFlow, PyTorch, LangChain
+- **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, Distributed Systems Architecture
+- **Programming & Tools:** Python, SQL, Bash, Terraform, Airflow, Tableau, Power BI
+- **Development:** TypeScript/JavaScript, Node.js, React, REST APIs
 
-- 📫 How to reach me **cwalton1335@gmail.com**
+## Current Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/http://linkedin.com/in/cwalton1335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/cwalton1335" height="30" width="40" /></a>
-</p>
+- Optimizing supply chain operations through advanced data analytics and AI solutions
+- Building scalable, real-time data pipelines for business automation and insights
+- Implementing data-driven decision-making frameworks across organizations
+- Contributing to open-source data engineering and AI projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## Available For
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cwalton133&show_icons=true&locale=en&layout=compact" alt="cwalton133" /></p>
+- Data Leadership roles driving analytics and data infrastructure initiatives
+- Data-centric research collaborations and innovation projects
+- Strategic advisory for startups focusing on data-driven growth
+- Speaking engagements and technical workshops on data engineering and AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cwalton133&show_icons=true&locale=en" alt="cwalton133" /></p>
+## Connect
 
+- Website: [dipankar.name](https://dipankar.name)
+- Maven Analytics: [b81143f0-9061-70e8-48f9-72e32c922336](https://mavenshowcase.com/profile/b81143f0-9061-70e8-48f9-72e32c922336)
+- Twitter: [@cwalton1335](https://twitter.com/cwalton133s)
+- LinkedIn: [cwalton1335](https://in.linkedin.com/in/cwalton1335)
+- Email: [cwalton1335@gmail.com](mailto:cwalton1335@gmail.com)
