@@ -1,46 +1,184 @@
-## Data Analyst & Data Engineer | AI & Platform Architecture | Nigeria 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+# Charles Walton
 
-## Proven Results
+## Data Analyst | Business Intelligence Analyst | SQL | Python | Power BI | Financial Analytics 🇳🇬
 
-- Enhanced industrial supply chain efficiency using advanced data analytics and AI-driven insights
-- Developed scalable data pipelines and ETL processes supporting platforms with 100M+ users globally
-- Secured over $2.5M in pre-product investment through innovative data-driven solutions and technical vision
-- Built and led high-performing data and engineering teams within startups and tech companies
+Transforming business data into actionable insights through analytics, visualization, automation, and business intelligence solutions.
 
-## Technical Achievements
+With a strong background in Banking, Customer Relationship Management, Revenue Growth, Risk Assessment, and Portfolio Management, I combine business expertise with analytical skills to help organizations make smarter, data-driven decisions.
 
-- **Data Infrastructure:** Designed and deployed large-scale data pipelines, ETL workflows, and cloud-based data warehouses (AWS, GCP)
-- **AI & ML Integration:** Implemented machine learning models and analytics solutions to optimize operational workflows
-- **Platform Development:** Led the development of data platforms supporting real-time analytics and business intelligence
-- **Automation & Optimization:** Created automated data processing pipelines reducing manual effort and increasing accuracy
-- **Technical Publications:** Authored guides on data architecture best practices and cloud deployment strategies
+---
 
-## Technical Stack Mastery
+## Proven Business Impact
 
-- **Data & Analytics:** SQL, NoSQL, Data Warehousing (Redshift, BigQuery), Spark, Kafka
-- **AI & ML:** Python (Pandas, NumPy, scikit-learn), TensorFlow, PyTorch, LangChain
-- **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Docker, Distributed Systems Architecture
-- **Programming & Tools:** Python, SQL, Bash, Terraform, Airflow, Tableau, Power BI
-- **Development:** TypeScript/JavaScript, Node.js, React, REST APIs
+* Managed and analyzed business portfolios valued at millions of dollars across diverse industries
+* Supported revenue growth through customer analytics, cross-selling strategies, and performance tracking
+* Improved business decision-making through KPI monitoring, financial reporting, and portfolio analysis
+* Delivered customer-focused solutions using data-driven insights and stakeholder collaboration
+* Identified growth opportunities through customer segmentation, revenue analysis, and trend evaluation
+* Supported risk mitigation initiatives through credit assessment and portfolio monitoring
+
+---
+
+## Analytics & Business Intelligence Projects
+
+### Customer Churn Analytics Dashboard
+
+* Analyzed customer retention patterns using SQL and Power BI
+* Identified key churn drivers and at-risk customer segments
+* Developed executive dashboards supporting customer retention strategies
+
+### Bank Loan Risk Analytics
+
+* Evaluated lending and credit risk data using Python and SQL
+* Built interactive dashboards for risk monitoring and portfolio analysis
+* Generated insights to support data-driven lending decisions
+
+### Revenue Performance Dashboard
+
+* Designed KPI dashboards tracking revenue, profitability, and growth trends
+* Performed sales and revenue analytics to identify business opportunities
+* Delivered executive reporting for strategic decision-making
+
+### Customer Segmentation Analytics
+
+* Applied data analytics techniques to identify high-value customer groups
+* Built customer segmentation models using Python and SQL
+* Supported targeted marketing and customer engagement initiatives
+
+### Financial Reporting Automation
+
+* Automated recurring reporting processes using Power BI and Excel
+* Improved reporting efficiency and reduced manual effort
+* Enhanced data accuracy and reporting consistency
+
+---
+
+## Technical Skills
+
+### Data Analytics
+
+* SQL
+* Python
+* Excel
+* Data Cleaning
+* Data Wrangling
+* Exploratory Data Analysis
+* Data Modeling
+
+### Business Intelligence
+
+* Power BI
+* Tableau
+* DAX
+* Dashboard Development
+* KPI Reporting
+* Executive Reporting
+
+### Databases
+
+* SQL Server
+* PostgreSQL
+* MySQL
+
+### Python Analytics
+
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+
+### Analytics Specializations
+
+* Customer Analytics
+* Financial Analytics
+* Revenue Analytics
+* Risk Analytics
+* Business Analytics
+* Predictive Analytics
+
+### Business Skills
+
+* Stakeholder Management
+* Business Intelligence
+* Strategic Planning
+* Problem Solving
+* Cross-Functional Collaboration
+* Data-Driven Decision Making
+
+---
 
 ## Current Focus
 
-- Optimizing supply chain operations through advanced data analytics and AI solutions
-- Building scalable, real-time data pipelines for business automation and insights
-- Implementing data-driven decision-making frameworks across organizations
-- Contributing to open-source data engineering and AI projects
+* Building advanced Power BI dashboards for business intelligence
+* Developing SQL analytics projects for customer and revenue insights
+* Applying Python for data cleaning, analysis, and automation
+* Creating financial analytics solutions leveraging banking domain expertise
+* Expanding expertise in predictive analytics and machine learning
 
-## Available For
+---
 
-- Data Leadership roles driving analytics and data infrastructure initiatives
-- Data-centric research collaborations and innovation projects
-- Strategic advisory for startups focusing on data-driven growth
-- Speaking engagements and technical workshops on data engineering and AI
+## Featured Portfolio Projects
 
-## Connect
+### Customer Churn Analysis Dashboard
 
-- Website: [cwalton1335](https://cwalton133.github.io/cwalton1335.github.io/)
-- Maven Analytics: [b81143f0-9061-70e8-48f9-72e32c922336](https://mavenshowcase.com/profile/b81143f0-9061-70e8-48f9-72e32c922336)
-- Twitter: [@cwalton1335](https://twitter.com/cwalton133s)
-- LinkedIn: [cwalton1335](https://in.linkedin.com/in/cwalton1335)
-- Email: [cwalton1335@gmail.com](mailto:cwalton1335@gmail.com)
+Power BI | SQL | Customer Analytics
+
+### Bank Loan Risk Analytics Dashboard
+
+Python | SQL | Power BI | Financial Analytics
+
+### Revenue Performance Dashboard
+
+Power BI | SQL | DAX | Business Intelligence
+
+### Customer Segmentation Analytics
+
+Python | SQL | Power BI
+
+### Sales & Profitability Analysis
+
+SQL | Excel | Power BI
+
+### Executive KPI Dashboard
+
+Power BI | SQL | Financial Reporting
+
+---
+
+## Open to Opportunities
+
+I am actively pursuing opportunities in:
+
+* Data Analyst
+* Business Intelligence Analyst
+* Financial Data Analyst
+* Revenue Analyst
+* Customer Analytics Analyst
+* Reporting Analyst
+* Business Analyst
+* Data & Insights Analyst
+
+---
+
+## Connect With Me
+
+🌐 Portfolio:
+https://cwalton133.github.io/data-portfolio/
+
+📊 Maven Analytics:
+https://mavenshowcase.com/profile/b81143f0-9061-70e8-48f9-72e32c922336
+
+💼 LinkedIn:
+https://linkedin.com/in/cwalton1335
+
+🐙 GitHub:
+https://github.com/cwalton133
+
+📧 Email:
+[cwalton1335@gmail.com](mailto:cwalton1335@gmail.com)
+
+---
+
+## Keywords
+
+Data Analyst • Business Intelligence • SQL • Python • Power BI • Tableau • Data Visualization • Customer Analytics • Financial Analytics • Revenue Analytics • Risk Analytics • Dashboard Development • KPI Reporting • Business Analytics • Data Modeling • ETL • Predictive Analytics • Stakeholder Management • Reporting Automation
